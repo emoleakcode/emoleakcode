@@ -1,4 +1,4 @@
-## Hi there 👋
+## This repository provides code and data for the emoleak project.
 
 <!--
 **emoleakcode/emoleakcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
