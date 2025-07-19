@@ -1,0 +1,25 @@
+relation emotiontess-enhanced-test   
+
+@attribute smean numeric
+@attribute smax numeric
+@attribute smin numeric	
+@attribute sstandard_deviation numeric
+@attribute svariance numeric	
+@attribute srange numeric
+@attribute sCV numeric 
+@attribute sskewness numeric	
+@attribute skurtosis numeric
+@attribute squantile25 numeric
+@attribute squantile50 numeric
+@attribute squantile75 numeric
+@attribute smeanCrossingRate numeric
+@attribute sPower numeric
+@attribute sEntropy numeric	
+@attribute sfrequency_ratio numeric
+@attribute irrk numeric
+@attribute irrj numeric 
+@attribute smoothness numeric
+@attribute sharpness numeric
+@attribute class {angry,disgust,fear,happy,neutral,ps,sad}
+
+@data
